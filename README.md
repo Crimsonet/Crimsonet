@@ -1,8 +1,8 @@
 <div style="text-align: center;"><h1>Hi, 𝑪𝒓𝒊𝒎𝒔𝒐𝒏𝒆𝒕 here!</h1></div>
 
-*I am **Crimsonet**, one of ***gentoo missionaries*** (XD) who is studying computer science and intelligence analysis.*
+*I am **Crimsonet**, one of **gentoo missionaries** (XD) who is studying computer science and intelligence analysis.*
 
-- 📡 *You can also call me by 𝑺𝒊𝒏𝒐𝒍𝒂𝒓𝒌 or my another name **华亭鹤唳** .*
+- 📡 *You can also call me by 𝐒𝐢𝐧𝐨𝐥𝐚𝐫𝐤 or my another name **华亭鹤唳** .*
 - 🗺️ *Mainly using **English** and **Chinese**. Both languages are my usual language.* 
 - 🛰️ *While interested in Internet development, also have some ideas about philosophy.*
 - ✉️ *Interested in diverse things and glad to communicate with anyone friendly.*
